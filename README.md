@@ -1,5 +1,5 @@
 # 💫 About Me:
-Curious builder and problem-solver passionate about creating practical tech solutions through code, data, and innovation.
+Hello, I am Ankur Bhowmik, passionate about Artificial Intelligence and Machine Learning. I focus on developing innovative, data-driven solutions while continuously enhancing my skills through experimentation and collaboration.
 
 
 ## 🌐 Socials:
