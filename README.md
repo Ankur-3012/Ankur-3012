@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ankur Bhowmik, passionate about Artificial Intelligence and Machine Learning. I focus on developing innovative, data-driven solutions while continuously enhancing my skills through experimentation and collaboration.
+Passionate AI and ML enthusiast focused on developing innovative, data-driven solutions. Experienced in experimenting with advanced algorithms and actively contributing to open-source projects. Committed to continuous learning and applying cutting-edge technologies to solve real-world challenges.
 
 
 ## 🌐 Socials:
